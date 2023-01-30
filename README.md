@@ -1,7 +1,7 @@
 To execute this wordle clon follow these steps:
 
 1. Clone the repository.
-2. Go to the command line where you clone the repository.
+2. Go to the directory where you cloned the repository in the command line.
 3. Execute the command yarn install.
 4. Run the command yarn start.
 5. Go to localhost:3000 in any browser you have.
